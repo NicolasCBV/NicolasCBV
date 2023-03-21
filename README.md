@@ -14,6 +14,6 @@
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino)](https://skillicons.dev)
 
 ![Snake animation](https://github.com/NicolasCBV/NicolasCBV/blob/output/github-contribution-grid-snake.svg)
