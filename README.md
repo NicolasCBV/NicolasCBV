@@ -2,7 +2,7 @@
 
 ### I'm just a developer that are loves programming world
 
-- 👨 I'm a developer focused in typescript technologies;
+- 👨 I'm just a developer were loves programming world
 - 🔧 For now I'm working in a ecommerce project called Dropneos;
 - 📕 Currently learning more about docker, and yours deployment.
 
