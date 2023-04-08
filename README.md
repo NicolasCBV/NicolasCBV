@@ -4,7 +4,7 @@
 
 - 👨 Just a developer focused in typescript technologies;
 - 🔧 For now I'm working in a ecommerce project called Dropneos;
-- 📕 Currently learning more about docker, and yours deployment.
+- 📕 Starting on Systems Development Analyst college.
 
 <a href="https://github.com/NicolasCBV">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasCBV&layout=compact&langs_count=7&theme=dracula"/>
