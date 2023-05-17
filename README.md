@@ -3,7 +3,6 @@
 ### I'm just a developer were loves programming world
 
 - 👨 Just a developer focused in typescript technologies;
-- 🔧 For now I'm working in a ecommerce project called Dropneos;
 - 📕 Starting on Systems Development Analyst college.
 
 <a href="https://github.com/NicolasCBV">
