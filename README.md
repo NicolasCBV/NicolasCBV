@@ -9,8 +9,9 @@
 
   Tenho uma paixão pela criação de soluções web inovadoras e eficientes, utilizando tecnologias modernas para oferecer a melhor experiência do usuário possível. Minha experiência abrange tanto o desenvolvimento do frontend quanto do backend, o que me permite criar aplicações completas e robustas.
 
-  - 👨 Focado em tecnologias do Typescript e Javascript;
-  - 📕 Iniciando em Sistemas de informação;
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Emoji de sorrijo animado" width="25" height="25" /> Focado em tecnologias do Typescript e Javascript;
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Livro aberto" width="25" height="25" /> Iniciando em Sistemas de informação;
+  - <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Xícara" width="25px" height="25px" /> Estudando Java pela Udemy
 </div>
 
 <div align="center">
@@ -35,4 +36,24 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="60%" />
 
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  
+# Minhas redes
+
+  <a href="mailto:nicolascbv700@gmail.com?subject=Ol%C3%A1%20N%C3%ADcolas!&body=Podemos%20conversar%3F" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="email de nicolascbv" width="48px" height="48px" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/n%C3%ADcolas-cleiton-707688227/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin de nicolascbv" width="48px" height="48px" />
+  </a>
+  
+  <a href="https://portfolio-or1x.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="my portfolio"  width="48px" height="48px" />
+  </a>
 </div>
