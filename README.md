@@ -32,9 +32,7 @@
 <div align="center">
 <h2>Minhas habilidades</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino)](https://skillicons.dev)
-
-# <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="60%" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino,express,firebase)](https://skillicons.dev)
 
 </div>
 
