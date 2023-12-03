@@ -19,7 +19,7 @@
 <br>
 <br>
 
-# Github Status
+<h2> Github Status </h2>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasCBV&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasCBV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
@@ -42,8 +42,7 @@
 <br>
 
 <div align="center">
-  
-# Minhas redes
+  <h2>Minhas redes</h2>
 
   <a href="mailto:nicolascbv700@gmail.com?subject=Ol%C3%A1%20N%C3%ADcolas!&body=Podemos%20conversar%3F" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="email de nicolascbv" width="48px" height="48px" />
