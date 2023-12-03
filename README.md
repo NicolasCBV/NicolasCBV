@@ -10,7 +10,7 @@
   Tenho uma paixão pela criação de soluções web inovadoras e eficientes, utilizando tecnologias modernas para oferecer a melhor experiência do usuário possível. Minha experiência abrange tanto o desenvolvimento do frontend quanto do backend, o que me permite criar aplicações completas e robustas.
 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Emoji de sorrijo animado" width="25" height="25" /> Focado em tecnologias do Typescript e Javascript;
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Livro aberto" width="25" height="25" /> Iniciando em Sistemas de informação;
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Livro aberto" width="25" height="25" /> Iniciando em Sistemas de Informação;
   - <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Xícara" width="25px" height="25px" /> Estudando Java pela Udemy
 </div>
 
