@@ -4,7 +4,9 @@
 
 </div>
 
-<div>
+<p>
+   <img align="right" width="50%" height="50%" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2NTMyODAsIm5iZiI6MTcwMjY1Mjk4MCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE1VDE1MDk0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZDQzYzgwZDRhYjI0NGZiMmQ3NjdmNDVlOTQxNmE1NWYyOWViZTYwMmQxNjAwNzNhMWRjZWY0MDE3ZmQ5NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6sKUAPjtCqzYV8WAeJK88QR8WcuyzMUwtsP-o0TzQbQ"/>
+  
   Olá! Meu nome é Nícolas e sou um Programador Fullstack especializado em Nest.js, Next.js e TypeScript.
 
   Tenho uma paixão pela criação de soluções web inovadoras e eficientes, utilizando tecnologias modernas para oferecer a melhor experiência do usuário possível. Minha experiência abrange tanto o desenvolvimento do frontend quanto do backend, o que me permite criar aplicações completas e robustas.
@@ -12,7 +14,7 @@
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Emoji de sorrijo animado" width="25" height="25" /> Focado em tecnologias do Typescript e Javascript;
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Livro aberto" width="25" height="25" /> Iniciando em Sistemas de Informação;
   - <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Xícara" width="25px" height="25px" /> Estudando Java pela Udemy
-</div>
+</p>
 
 <div align="center">
 
