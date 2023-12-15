@@ -34,7 +34,7 @@
 <div align="center">
 <h2>Minhas habilidades</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino,express,firebase)](https://skillicons.dev)
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino,express,firebase&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -45,15 +45,15 @@
   <h2>Minhas redes</h2>
 
   <a href="mailto:nicolascbv700@gmail.com?subject=Ol%C3%A1%20N%C3%ADcolas!&body=Podemos%20conversar%3F" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="email de nicolascbv" width="48px" height="48px" />
+    <img src="https://img.shields.io/badge/Google%20email-grey?logo=gmail&style=for-the-badge" alt="email de nicolascbv" />
   </a>
 
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-cleiton-707688227/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin de nicolascbv" width="48px" height="48px" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin de nicolascbv"/>
   </a>
-  
-  <a href="https://portfolio-or1x.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="my portfolio"  width="48px" height="48px" />
+
+  <a href="https://portfolio-or1x.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
   </a>
 </div>
 
