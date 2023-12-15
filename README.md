@@ -34,7 +34,7 @@
 <div align="center">
 <h2>Minhas habilidades</h2>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino,express,firebase&perline=6)](https://skillicons.dev)
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino,express,firebase&perline=7)](https://skillicons.dev)
 
 </div>
 
