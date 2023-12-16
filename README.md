@@ -22,8 +22,8 @@
 <br>
 
 <h2> Github Status </h2>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasCBV&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasCBV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCBV&layout=compact&theme=merko&locale=pt-br&border_color=99C24D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolascbv&hide=contribs,pr&show_icons=true&theme=merko&locale=pt-br&count_private=true&rank_icon=github&border_color=99C24D"/>
 
 </div>
 
@@ -40,6 +40,12 @@
 
 <br>
 <br>
+
+<div align="center">
+   <h2>Projetos que estou trabalhando</h2>
+
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AppMorada&repo=MoradaApp.Api&border_color=99C24D&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=99C24D"/>
+</div>
 
 <div align="center">
   <h2>Minhas redes</h2>
