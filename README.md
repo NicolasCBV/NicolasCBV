@@ -5,7 +5,7 @@
 </div>
 
 <p>
-   <img align="right" width="45%" height="40%" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5NjE3MDksIm5iZiI6MTcwMzk2MTQwOSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDE4MzY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiZTg1YTA4YmJiMDAyNzQwODQ3NmE2ZDljZDdkYjFlN2QwNDBmY2NmNTVjOGE4YzJmM2QwODZiOTQzY2IwNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cjfHeLVQflvIylgXfdydCkZ0AeGYcrb1zylSPN8l1ng"/>
+   <img align="right" width="45%" height="40%" src="https://github.com/NicolasCBV/NicolasCBV/assets/92616145/5b18f429-8eba-4e6f-83fe-0b20b96f4e6e"/>
   
   Olá! Meu nome é Nícolas e sou um Programador Fullstack especializado em Nest.js, Next.js e TypeScript.
 
