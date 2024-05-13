@@ -13,7 +13,7 @@
 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Emoji de sorrijo animado" width="25" height="25" /> Focado em tecnologias do Typescript e Javascript;
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Livro aberto" width="25" height="25" /> Iniciando em Sistemas de Informação;
-  - <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Xícara" width="25px" height="25px" /> Estudando Java pela Udemy
+  - <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Xícara" width="25px" height="25px" /> Estudando Java pela Udemy e realizando side projects para me aprimorar nesta linguagem.
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <h2> Github Status </h2>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCBV&layout=compact&theme=merko&locale=pt-br&border_color=99C24D"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolascbv&hide=contribs,pr&show_icons=true&theme=merko&locale=pt-br&count_private=true&rank_icon=github&border_color=99C24D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolascbv&hide=contribs&show_icons=true&theme=merko&locale=pt-br&count_private=true&rank_icon=github&border_color=99C24D"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 <div align="center">
 <h2>Minhas habilidades</h2>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,docker,typescript,react,next,nodejs,mysql,nestjs,arduino,express,firebase&perline=7)](https://skillicons.dev)
+![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,typescript,react,next,nodejs,nestjs,express,vite,sqlite,mysql,postgres,redis,linux,docker,java,maven,spring,gcp,jest,githubactions,arduino,firebase&perline=8)
 
 </div>
 
@@ -46,6 +46,7 @@
 
    <a href="https://github.com/AppMorada/MoradaApp.Api" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AppMorada&repo=MoradaApp.Api&border_color=99C24D&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=99C24D"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasCBV&repo=seuportfolio.registryapi&border_color=99C24D&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=99C24D"/>
    </a>
 </div>
 
