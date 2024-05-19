@@ -34,7 +34,7 @@
 <div align="center">
 <h2>Minhas habilidades</h2>
 
-![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,typescript,react,next,nodejs,nestjs,express,vite,sqlite,mysql,postgres,redis,linux,docker,java,maven,spring,gcp,jest,githubactions,arduino,firebase&perline=8)
+![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,typescript,react,next,nodejs,nestjs,express,vite,sqlite,mysql,postgres,redis,linux,docker,terraform,java,maven,spring,gcp,jest,githubactions,arduino,firebase&perline=9)
 
 </div>
 
