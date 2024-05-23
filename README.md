@@ -46,8 +46,12 @@
 
    <a href="https://github.com/AppMorada/MoradaApp.Api" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AppMorada&repo=MoradaApp.Api&border_color=99C24D&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=99C24D"/>
+   </a>
+
+   <a href="https://github.com/NicolasCBV/seuportfolio.registryapi" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasCBV&repo=seuportfolio.registryapi&border_color=99C24D&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=99C24D"/>
    </a>
+   
 </div>
 
 <div align="center">
